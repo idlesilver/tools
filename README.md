@@ -11,7 +11,7 @@ I love using cartoon images as my wallpapers. However, it can sometimes be awkwa
 
 ## Installation
 ### Download portable exe
-- check the [lateset release](https://github.com/idlesilver/wallpaperSwitcher/releases/tag/v1.0) for the `wallpaperSwitcher.exe`
+- check the [lateset release](https://github.com/idlesilver/wallpaperSwitcher/releases/latest) for the `wallpaperSwitcher.exe`
 
 ### Build from source
 - Install python environment. Google it if you don't have one.
