@@ -1,14 +1,13 @@
 # Wallpaper Switcher
-## Demo
 
 <img src="assets/folderRotate.gif" width="100%"/>
 
 ## Intro
-I love to use cartoon images to be my wallpapers. However, sometimes it would be awkard to show it in front of your audience during the acadamic presentation. Therefore, I made this little tool to save my life.
+I love using cartoon images as my wallpapers. However, it can sometimes be awkward to show them in front of your audience during an academic presentation. Therefore, I made this little tool to save the day. It can help you quickly switch the wallpaper and switch back later.
 
 >[!caution] 
-> - **Only support for windows**
-> - **Always backup your current wallpaper before use it.**
+> - **Only supports Windows**
+> - **Always back up your current wallpaper before using this tool**
 
 ## Installation
 ### Download portable exe
@@ -24,14 +23,15 @@ I love to use cartoon images to be my wallpapers. However, sometimes it would be
   - The exe file should be in `dist` folder, you can move it to any where as you like
 
 ## Usage
-1. Double click to rotately switching between the given wallpaper list, wallpaper list can be defined by
-   1. image path list in wallpaper.txt with 
-   2. image in the folder named wallpapers
-   3. image paths given in `default_wallpaper_files` in script
-2. Drag an image to set as wallpaper, or
-3. Drag any non-image-type file to it to manually select wallpaper
+1. Double-click to switch between the wallpapers in the list. The wallpaper list can be defined by
+   1. An image path list in `wallpaper.txt` 
+   2. images in the folder named wallpapers
+   3. image paths defined in `default_wallpaper_files` in the script
+2. Drag an image to set it as your wallpaper
+3. Drag any non-image-type file to it to manually select a wallpaper
 
-`wallpaper.txt` and `wallpapers` folder should be in the same location as the exe file or the python script
+>[!tip] 
+>`wallpaper.txt` and `wallpapers` folder should be in the same location as the executable file or the Python script.
 
 ## More demos
 ### Rotate images in list
@@ -40,13 +40,12 @@ I love to use cartoon images to be my wallpapers. However, sometimes it would be
 ### Rotate images in folder
 <img src="assets/folderRotate.gif" width="100%"/>
 
-
 ### Drag image files
 <img src="assets/dragImage.gif" width="100%"/>
 
 ### Drag non-image files to trigger image select
 <img src="assets/dragNonimage.gif" width="100%"/>
 
-### Rotate image in default list
+### Rotate images in default list
 <img src="assets/defaultRotate.gif" width="100%"/>
 
